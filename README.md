@@ -1,4 +1,4 @@
-- 👋👺 Hi, I’m Felipe
+- 👋👺 Hi, I’m Felipe Jesus Fernandes Rosini
 - 👀 I’m interested in Biologia
 - 🌱 I’m currently learning Java Script
 - 💞️ I’m looking to collaborate on ...
